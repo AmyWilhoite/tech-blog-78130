@@ -16,6 +16,7 @@ Clone, use node packages, deploy with heroku using jaws.
 * heroku:  https://tech-blog-78130.herokuapp.com/
 * login: user@gmail.com / asdf
 * repo: https://github.com/AmyWilhoite/tech-blog-78130.git  
+* heroku git: https://git.heroku.com/tech-blog-78130.git    
 
 ### License
   ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
