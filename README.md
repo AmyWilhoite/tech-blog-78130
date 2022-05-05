@@ -19,4 +19,4 @@ Clone, use node packages, deploy with heroku using jaws.
 * heroku git: https://git.heroku.com/tech-blog-78130.git    
 
 ### License
-  ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
+  ![Github License](http://img.shields.io/badge/license-MIT-blue.svg)
