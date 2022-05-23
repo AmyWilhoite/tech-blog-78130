@@ -1,5 +1,5 @@
 ## tech blog
-Welcome to my tech blog! A CMS- Style blog that allows you to log in to be able to see and create blog posts. 
+Welcome to my tech blog! A CMS- Style blog that allows you to log in to be able to see and create blog posts.
 
 ### Description
 This app was created with full-stack software development strategies. 
