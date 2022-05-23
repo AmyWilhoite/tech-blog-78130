@@ -13,7 +13,7 @@ Clone, use node packages, deploy with heroku using jaws.
 ![View3](./assets/updated.png)
 
 ### Links
-* heroku:  https://tech-blog-78130.herokuapp.com/
+* heroku: https://tech-blog-fun.herokuapp.com
 * login: user@gmail.com / asdf
 * repo: https://github.com/AmyWilhoite/tech-blog-78130.git  
 * heroku git: https://github.com/AmyWilhoite/tech-blog-78130.git  
